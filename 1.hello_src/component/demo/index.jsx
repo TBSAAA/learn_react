@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
+import './index.css'
 
-
-export default class App extends Component {
+export default class Index extends Component {
     render() {
         return (
             <div>
-                haha
+
             </div>
         );
     }
